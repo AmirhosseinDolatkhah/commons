@@ -1,4 +1,4 @@
-module github.com/amirhosseindolatkhah/commons
+module github.com/amirdlt/commons
 
 go 1.18
 
